@@ -1,0 +1,12 @@
+Permissions Request Instructions:
+If an app or file says, “Access denied” or “You don’t currently have permission to access this file,” follow these steps: 
+
+1. Double-check that you’re logged in with your work account.
+2. If it’s a shared document, ask the file owner to confirm your access. 
+3. Go to the Company Portal > Access Requests >submit a form for permission.
+4. Include in your form:
+-File or system name 
+-Your department 
+-Level of access needed (view or edit)
+5. You’ll get an email once access is approved. Log out, then back in to apply changes.
+6. If access is still denied after approval, contact the IT Helpdesk for troubleshooting. 

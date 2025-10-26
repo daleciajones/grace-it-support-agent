@@ -1,0 +1,13 @@
+Wifi Connection Instructions: 
+If you cannot connect to the company Wi-Fi, follow these steps: 
+
+1. Make sure Wi-Fi is turned on in your device settings.
+2. Select the correct company network name from the list. 
+3. When prompted, enter your network username and password.
+4. If you receive an error, click "Forget Network," reconnect, and re-enter your credentials. 
+5. Check if other devices nearby can connect, if they cannot, the issue may be network-wide. 
+6. If the problem continues, restart your device and try again. 
+7. If you still cannot connect, submit a ticket to the IT Helpdesk and include: 
+-Your device name 
+-The Wi-Fi network you tried connecting to
+-Any error messages you saw 

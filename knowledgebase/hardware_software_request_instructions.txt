@@ -1,0 +1,17 @@
+Hardware or Software Request Instructions:
+If you need new equipment or software, follow these steps:
+
+1. Go to the Company Portal > Request Center.
+2. Choose either: 
+-“Request Hardware” (for laptops, monitors, or headsets)
+-“Request Software” (for new applications or license renewals)
+3. Complete the form with: 
+-The item name 
+-Business reason for the request 
+-Manager approval(if required)
+4. Once submitted, you’ll receive a confirmation email with your ticket number.
+5. IT Helpdesk will process your request and notify you when it’s approved or shipped.
+6. If you need to check the status, go to “My Requests” in the portal.
+
+Instructions Reminder: 
+Only approved hardware and software may be installed on company devices for security compliance. 
