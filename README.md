@@ -9,7 +9,7 @@ She uses a small local knowledge base for common technical issues (like Wi-Fi, p
 and an optional API fallback for questions she doesn’t recognize.  
 
 🎥 [Watch Demo Video] <p align="center">
-  <video src="grace_demo.mp4" width="600" controls>
+  <video src="Grace%20Demo.mov" width="600" controls>
     Your browser does not support the video tag.
   </video>
 </p>
@@ -40,14 +40,14 @@ and an optional API fallback for questions she doesn’t recognize.
 ## 💻 Developer Setup
 Follow these steps to set up and run Grace locally.
 
----
+⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
 
 ### - Clone the Repository
 ```bash
 git clone https://github.com/daleciajones/grace-it-support-chatbot.git
 cd grace-it-support-chatbot
 
-- Create and Activate a Virtual Environment
+Create and Activate a Virtual Environment
 # macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
@@ -56,8 +56,8 @@ source venv/bin/activate
 python -m venv venv
 venv\Scripts\activate
 
-- Install Dependencies
-Grace only requires the requests library, but you can install everything from the requirements.txt file for convenience:
+#Install Dependencies
+-Grace only requires the requests library, but you can install everything from the requirements.txt file for convenience:
 pip install -r requirements.txt
 
 - Set Up Your API Key
