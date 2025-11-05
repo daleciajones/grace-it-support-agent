@@ -8,11 +8,7 @@ Grace is a semi-static chatbot built in Python to simulate real-world IT support
 She uses a small local knowledge base for common technical issues (like Wi-Fi, password resets, or login errors),  
 and an optional API fallback for questions she doesn’t recognize.  
 
-🎥 [Watch Demo Video] <p align="center">
-  <video src="Grace%20Demo.mov" width="600" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
+## 🎥 [Watch Demo Video](Grace%20Demo.mov)
 
 *(Grace walks through Wi-Fi troubleshooting, password resets, and fallback handling.)*
 
