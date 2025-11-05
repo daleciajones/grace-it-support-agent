@@ -92,7 +92,7 @@ Stores logs and responses locally for easy debugging
 
 ⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
 
-✨ Project Vision
+## ✨ Project Vision
 
 Grace represents my early steps in Python development and automation.She blends logic, structure, and human-like interaction.
 
