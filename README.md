@@ -1,4 +1,4 @@
-# 💜 Grace IT Support Chatbot
+# 💜 Grace IT Support Agent
 *A Python-based chatbot that simulates IT helpdesk support using keyword logic and an API fallback for unknown issues.*
 
 ⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
@@ -94,6 +94,6 @@ Stores logs and responses locally for easy debugging
 
 ## ✨ Project Vision
 
-Grace represents my early steps in Python development and automation.She blends logic, structure, and human-like interaction.
+Grace represents my early steps in Python development and automation. She blends logic, structure, and human-like interaction.
 
 Her purpose is simple: to make IT support feel seamless and human. 
