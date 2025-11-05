@@ -42,40 +42,47 @@ Follow these steps to set up and run Grace locally.
 ```bash
 git clone https://github.com/daleciajones/grace-it-support-chatbot.git
 cd grace-it-support-chatbot
-
-Create and Activate a Virtual Environment
-# macOS / Linux
+```
+## Create and Activate a Virtual Environment
+macOS / Linux
+```bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 # Windows
+```bash
 python -m venv venv
 venv\Scripts\activate
-
-#Install Dependencies
+```
+# Install Dependencies
 -Grace only requires the requests library, but you can install everything from the requirements.txt file for convenience:
+```bash
 pip install -r requirements.txt
-
+```
 - Set Up Your API Key
 
 Grace can use a fallback API when she doesn’t recognize a question.
 
 # macOS / Linux
+```bash
 export OPENAI_API_KEY="your_api_key_here"
-
+```
 # Windows PowerShell
+```bash
 setx OPENAI_API_KEY "your_api_key_here"
+```
 
-
-💡 Restart your terminal after setting the key to apply changes.
+## 💡 Restart your terminal after setting the key to apply changes.
 
 -Run Grace
+```bash
 python3 grace_agent.py
+```
 
 
 Grace will start in interactive mode — ready to handle basic IT support queries through her local knowledge base, and API fallback when connected online.
 
-⚙️ Additional Notes
+## ⚙️ Additional Notes
 
 Built with Python 3.8+
 
