@@ -78,11 +78,14 @@ python -m venv venv
 venv\Scripts\activate
 ```
 # Install Dependencies
+
 -Grace only requires the requests library, but you can install everything from the requirements.txt file for convenience:
+
 ```bash
 pip install -r requirements.txt
 
 -Run Grace
+
 ```bash
 python3 grace_agent.py
 ```
