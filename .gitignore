@@ -16,3 +16,7 @@ env/
 
 #VS Code settings (optional)
 .vscode/
+
+# Ignore log files 
+grace_chat.log
+*.log
