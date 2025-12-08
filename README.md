@@ -6,6 +6,8 @@
 ## 🧠 Overview
 Grace uses a local knowledge base for IT support topics and integrates with AWS IAM via boto3 to list users, view permissons, check MFA, and review acess keys.  
 
+⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
+
 ## ✨ Key Features
 
 **IT Support (Local Knowledge Base)**
@@ -109,8 +111,11 @@ Create a few sample users Grace can inspect:
 - `developer-user`
 - `analyst-user`
 - `support-user`
+⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
 
 **Steps:**
+
+⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
 
 1. Go to **IAM → Users → Create user**
 2. Enter a username (e.g., `developer-user`)
@@ -122,6 +127,8 @@ Create a few sample users Grace can inspect:
 ⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
 
 ## 3. Create IAM Groups
+
+⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
 
 Groups represent roles in a real organization. Create three groups:
 
@@ -158,16 +165,11 @@ Example inline policies used in this project:
 - `SupportReadOnlySandbox`  
   → Basic support troubleshooting permissions with sandbox-only visibility
 
+⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
+
 **Steps to add the policies:**
-1. Go to **IAM → User groups**
-2. Select a group (e.g., `Developer`)
-3. Open the **Permissions** tab
-4. Choose **Add permissions → Create inline policy**
-5. Use the visual editor to assign minimal permissions needed for that group
-6. Save the policy using the names above
+⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
 
-
-**Steps:**
 1. Go to **IAM → User groups**
 2. Select a group (e.g., `Developer`)
 3. Open the **Permissions** tab
@@ -203,6 +205,7 @@ Example inline policies used in this project:
 ## ✨ Project Vision
 
 Grace started as a small IT helper, but she’s grown into a full IT + Cloud Security assistant.  
+
 She blends logic, structure, and gentle human-like interaction while performing real AWS IAM checks like permissions, MFA, and access keys.
 
-Her purpose is to make technical workflows feel seamless, secure, and beautifully simple — all through Python.
+Her purpose is to make technical workflows feel seamless, secure, and beautifully simple all through Python.
