@@ -84,10 +84,8 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 
--Run Grace
+-Run Grace 
 
-```bash
-python3 grace_agent.py
 ```
 Grace will start in interactive mode — ready to handle basic IT support queries through her local knowledge base.
 
