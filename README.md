@@ -22,7 +22,7 @@ Grace uses a local knowledge base for IT support topics and integrates with AWS 
 - `check iam permissions for <user>` – summarize groups and policies
 - `check iam mfa for <user>` – report whether MFA is enabled
 - `check iam access keys for <user>` – list keys
-- `show iam policy <name>` – view policy JSON for a given IAM policy
+
 
 **Extras**
 - Conversation logging to `grace_chat.log`
@@ -194,17 +194,13 @@ Example inline policies used in this project:
    - Run: `list iam users`  
    - Grace will show all IAM users in your AWS account.
 
-2. **Check IAM permissions**  
-   - Run: `check iam permissions for developer-user`  
-   - Grace summarizes inline and group policies.
-
-3. **Check MFA status**  
+2. **Check MFA status**  
    - Run: `check iam mfa for analyst-user`  
    - Grace indicates whether MFA is enabled.
 
-4. **Review access keys**  
+3. **Review access keys**  
    - Run: `check iam access keys for support-user`  
-   - Grace shows key IDs,
+   - Grace shows key IDs.
 
 ⋆｡°✩｡⋆☁︎⋆｡°✩｡⋆
 
